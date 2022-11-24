@@ -1,4 +1,4 @@
-package com.krachkovsky.socialnetwork.ui.theme
+package com.krachkovsky.socialnetwork.presentation
 
 import androidx.compose.ui.graphics.Color
 
@@ -8,4 +8,4 @@ val LightGray = Color(0xFF606060)
 val TextWhite = Color(0xFFEEEEEE)
 val HintGray = Color(0xFF6D6D6D)
 val TextGray = Color(0xFFA6A6A6)
-val VioletAccent = Color(0xFFA381BA)
+val VioletAccent = Color(0xFF7C4DFF)

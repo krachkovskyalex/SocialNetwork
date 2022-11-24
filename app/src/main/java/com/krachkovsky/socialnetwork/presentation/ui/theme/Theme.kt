@@ -1,4 +1,4 @@
-package com.krachkovsky.socialnetwork.ui.theme
+package com.krachkovsky.socialnetwork.presentation
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors
