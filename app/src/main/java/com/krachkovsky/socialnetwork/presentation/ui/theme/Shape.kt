@@ -1,4 +1,4 @@
-package com.krachkovsky.socialnetwork.ui.theme
+package com.krachkovsky.socialnetwork.presentation
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
