@@ -27,7 +27,7 @@ fun StandardTextField(
     text: String = "",
     hint: String = "",
     maxLength: Int = 40,
-    error: String = "s",
+    error: String = "",
     keyboardType: KeyboardType = KeyboardType.Text,
     showPasswordToggle: Boolean = false,
     onPasswordToggleClick: (Boolean) -> Unit = {},
